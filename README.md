@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/c1bcf997-e2cf-4eb3-b875-c6e113c32962)
+
+
+
 # Project Learnings
 - Performed data cleaning and manipulation
 - Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
