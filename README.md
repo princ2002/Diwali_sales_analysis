@@ -1,1 +1,1 @@
-Pakages used
+Pakages used: - Pandas,Plotly
