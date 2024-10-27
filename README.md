@@ -9,4 +9,4 @@
 - Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 
 
-[![Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org)
+
