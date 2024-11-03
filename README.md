@@ -3,6 +3,8 @@
 
 
 # Project Learnings
+## Project goal: - To analyze Diwali sales data to understand customer purchasing behavior based on demographics such as gender, age, and marital status, and identify high-value customers.
+### Technolgy used: Python, Pandas, NumPy, Matplotlib, Seaborn.
 - Performed data cleaning and manipulation
 - Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
 - Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
