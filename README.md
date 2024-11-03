@@ -11,9 +11,6 @@
 - Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 
 1. Data Cleaning: Removed unnecessary columns, handled missing values, and converted data types for accurate analysis.
-2. 
-3. Exploratory Data Analysis (EDA): Analyzed sales by demographics, including gender, age groups, and marital status, to identify trends.
-4. 
-5. Customer Segmentation: Segmented data to identify high-value customer groups and understand spending patterns during Diwali.
-6. 
-7. Visualization: Created visualizations to depict sales distribution by customer demographics and purchasing behavior, offering actionable insights.
+2. Exploratory Data Analysis (EDA): Analyzed sales by demographics, including gender, age groups, and marital status, to identify trends.
+3. Customer Segmentation: Segmented data to identify high-value customer groups and understand spending patterns during Diwali.
+4. Visualization: Created visualizations to depict sales distribution by customer demographics and purchasing behavior, offering actionable insights.
